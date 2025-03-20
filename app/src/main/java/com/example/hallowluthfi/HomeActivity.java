@@ -35,8 +35,8 @@ public class HomeActivity extends AppCompatActivity {
             return insets;
         });
 
-        Card1 = findViewById(R.id.Card1);
-        CardDesc = findViewById((R.id.CardDesc1);
+        //Card1 = findViewById(R.id.Card1);
+        //CardDesc = findViewById((R.id.CardDesc1);
 
     }
 }
