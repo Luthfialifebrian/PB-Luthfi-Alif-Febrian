@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67763507915",
+    "project_id": "hellolieplup",
+    "storage_bucket": "hellolieplup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67763507915:android:365af4bf6ae19e7662c14e",
+        "android_client_info": {
+          "package_name": "com.example.hallowluthfi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEBICsOi6IL-0vNPp3kwjAEiWIZUfdlqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
